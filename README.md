@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindos ao meu perfil!! 🦋 💌
 
-<!--
-**mariaelizabeth2009/mariaelizabeth2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Elizabeth ♥️
 
-Here are some ideas to get you started:
+- Estudo na Alura 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Utilizo este espaço para minha organização e compartilhamentos de meus projetos 📽️
+
+
+  ## Voçe pode entrar em contato comigo atraves de meu email 📧
+  - 📧 maria.furich@escola.pr.gov.br
+    
+  - @dixx_maaaah_
+
+![](https://media.tenor.com/j979cL9NF10AAAAi/hearts-red.gif)
